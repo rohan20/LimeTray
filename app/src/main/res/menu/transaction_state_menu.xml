@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/verified"
+        android:title="Verified" />
+
+    <item
+        android:id="@+id/unverified"
+        android:title="Unverified" />
+
+    <item
+        android:id="@+id/fraud"
+        android:title="Fraud" />
+
+</menu>
